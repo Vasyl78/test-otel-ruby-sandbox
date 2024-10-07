@@ -1,0 +1,20 @@
+[submodule "addresses-app"]
+	path = addresses-app
+	url = ../test-otel-ruby-addresses-app
+	branch = main
+[submodule "entrance-app"]
+	path = entrance-app
+	url = ../test-otel-ruby-entrance-app
+	branch = main
+[submodule "licenses-app"]
+	path = licenses-app
+	url = ../test-otel-ruby-licenses-app
+	branch = main
+[submodule "users-app"]
+	path = users-app
+	url = ../test-otel-ruby-users-app
+	branch = main
+[submodule "docker_infrastructure"]
+	path = docker_infrastructure
+	url = ../docker_infrastructure
+	branch = develop
